@@ -48,7 +48,7 @@ Depois da regressão linear fizemos a regressão múltipla seguindo os seguintes
 
 ![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/ceb06f0d-1907-4f69-8993-4da404beb702)
 
-7. a
+7. Descobrindo o p-valor
    
 ![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/69419f0e-a97a-4c39-80dc-451c36094a89)
 ![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/4ae149c5-398b-4b71-9aea-005cf3558283)
