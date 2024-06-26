@@ -1,7 +1,5 @@
 # Análise Felicidade
 
-Antes mostra algumas informações do projeto
-
 > Status do projeto: Finalizado
 
 > Esse projeto nos foi proposto no 4ºSemestre na disciplina de Cálculo Numérico
