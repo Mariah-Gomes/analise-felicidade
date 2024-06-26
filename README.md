@@ -20,24 +20,38 @@
 Nos foi proposto nesse projeto um database à partir dele tinhamos que fazer uma análise com seus dados. Essas análises incluíam regressão linear, coeficiente de pearson e coeficiente de correlação da variável dependente e das variáveis independentes e por último uma regressão múltipla.  
 
 ## :mag_right: Funcionalidade
-Primeiro fizemos a regressão linear para todas as variáveis independetes
+Primeiro fizemos a regressão linear para todas as variáveis independetes seguindo os seguintes passos:
+
 1. Gráfico de Dispersão:
 
-   ![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/932fd2e3-af85-4016-bea2-bbded07ad31e)
+![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/932fd2e3-af85-4016-bea2-bbded07ad31e)
    
 2. Gráfico de Dispersão com a reta ajustada:
 
-  ![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/1a625355-154d-4ed0-ba8c-86bc3dbdd7c0)
- 
-3. Correlação de Pearson:
+![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/d36c56cd-6ff0-4a77-bf69-8cdc8496ec60)
+
+3. Coeficente de Pearson:
 
   ![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/575d7909-0fa8-47ee-9005-a98d3735c105)
 
-4. Coeficiente
+4. Correlação (R2):
    
-   ![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/4740b85c-3f9c-4cac-9c03-d91121c54602)
+![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/4740b85c-3f9c-4cac-9c03-d91121c54602)
 
-6. a
+Depois da regressão linear fizemos a regressão múltipla seguindo os seguintes passos:
+
+5. Gráfico de Dispersão Múltipla com a reta ajustada:
+
+![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/1a224462-7aa5-442f-9754-23047cc0addf)
+
+6. Correlação (R2):
+
+![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/ceb06f0d-1907-4f69-8993-4da404beb702)
+
+7. a
+   
+![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/69419f0e-a97a-4c39-80dc-451c36094a89)
+![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/4ae149c5-398b-4b71-9aea-005cf3558283)
 
 ## :computer: Tecnologias Utilizadas
 - Utilizamos para programar o jupyter
