@@ -17,7 +17,7 @@
 🔹[Desenvolvedores](#busts_in_silhouette-desenvolvedores)
 
 ## :pencil: Descrição do Projeto
-Aqui a gente escreve um ou dois parágrafos explicando o projeto
+Nos foi proposto nesse projeto um database à partir dele tinhamos que fazer uma análise com seus dados. Essas análises incluíam regressão linear, coeficiente de pearson e coeficiente de correlação da variável dependente e das variáveis independentes e por último uma regressão múltipla.  
 
 ## :mag_right: Funcionalidade
 Aqui mostra as funcionalidades do projeto em tópicos (de numeração e com a foto)
