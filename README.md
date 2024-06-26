@@ -20,7 +20,24 @@
 Nos foi proposto nesse projeto um database à partir dele tinhamos que fazer uma análise com seus dados. Essas análises incluíam regressão linear, coeficiente de pearson e coeficiente de correlação da variável dependente e das variáveis independentes e por último uma regressão múltipla.  
 
 ## :mag_right: Funcionalidade
-Aqui mostra as funcionalidades do projeto em tópicos (de numeração e com a foto)
+Primeiro fizemos a regressão linear para todas as variáveis independetes
+1. Gráfico de Dispersão:
+
+   ![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/932fd2e3-af85-4016-bea2-bbded07ad31e)
+   
+2. Gráfico de Dispersão com a reta ajustada:
+
+  ![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/1a625355-154d-4ed0-ba8c-86bc3dbdd7c0)
+ 
+3. Correlação de Pearson:
+
+  ![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/575d7909-0fa8-47ee-9005-a98d3735c105)
+
+4. Coeficiente
+   
+   ![image](https://github.com/Mariah-Gomes/analise_felicidade/assets/141663285/4740b85c-3f9c-4cac-9c03-d91121c54602)
+
+6. a
 
 ## :computer: Tecnologias Utilizadas
 - Utilizamos para programar o jupyter
